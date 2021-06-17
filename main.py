@@ -97,7 +97,7 @@ def mk_checked_file(path_proxy, path_acc_database):
 
 
 if __name__ == '__main__':
-    print('Скрипт сделан Lalofike')
+    print('Скрипт сделан ciwie3303')
     proxy_path = input('введите название файла с прокси: ')
     accs_path = input('введите название файла с аккаунтами к netflix (email:pass): ')
     mk_checked_file(proxy_path, accs_path)
